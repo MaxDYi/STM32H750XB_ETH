@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lwip.h": "c",
+        "opt.h": "c"
+    }
+}
